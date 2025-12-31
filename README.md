@@ -72,8 +72,8 @@ The objective of this analysis was to identify the primary drivers of customer a
 #### Hi, I'm Nicole!
 I am a Data science ML practitioner, and an aspiring Data Engineer.
 
-[![github](https://raw.githubusercontent.com/nicole-kutswa/ALX-Capstone-1-Customer-Churn-Analysis/main/icons/git.svg)][1]
-[![linkedin](https://raw.githubusercontent.com/nicole-kutswa/ALX-Capstone-1-Customer-Churn-Analysis/main/icons/iconmonstr-linkedin-5.svg)][2]
+[![github](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/main/icons/git.svg)][1]
+[![linkedin](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/main/icons/iconmonstr-linkedin-5.svg)][2]
 
 [1]: https://github.com/nicole-kutswa
 [2]: https://www.linkedin.com/in/nicole-kutswa/
