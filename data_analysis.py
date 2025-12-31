@@ -100,6 +100,7 @@ def analyze_by_charges(df):
     ax2.set_xticklabels(['Retained', 'Churned'])
     
     plt.tight_layout()
+    plt.savefig('output/charges_boxplot.png', dpi=300, bbox_inches='tight') # This saves the file
     plt.show()
     
     return charges_churn
@@ -130,6 +131,7 @@ def analyze_internet_churn(df):
     ax2.set_ylabel('Number of Customers')
     
     plt.tight_layout()
+    plt.savefig('output/internet_services.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 def plot_correlation_heatmap(df):
@@ -153,6 +155,7 @@ def plot_correlation_heatmap(df):
     sns.heatmap(corr_matrix, annot=True, fmt='.2f', cmap='coolwarm', center=0)
     
     plt.title('Correlation Heatmap of Numeric Features', fontsize=14, fontweight='bold')
+    plt.savefig('output/correlation_heatmap.png', dpi=300, bbox_inches='tight') # This saves the file
     plt.show()
     
     return corr_matrix
