@@ -10,7 +10,7 @@
 
 # <div align="center">Telecom Customer Churn Analysis (ALX Capstone Project)</div>
 
-![Intro](https://github.com/nicole-kutswa/ALX-Capstone-1-Customer-Churn-Analysis/blob/main/output/churn.jpg?raw=true)
+![Intro](https://github.com/nicole-kutswa/ALX-Capstone-1-Customer-Churn-Analysis/blob/main/output/churn.webp?raw=true)
 
 ## What is Customer Churn?
 Customer churn occurs when subscribers discontinue their service. In the highly competitive telecom industry, annual churn rates range from 15-25%. Retaining existing customers is significantly more cost-effective than acquiring new ones, making churn prediction a high-value business priority.
